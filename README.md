@@ -1,4 +1,4 @@
-#LeetCode Statistic:
+# LeetCode Statistic:
                                 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dontpaniczy?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/dontpaniczy/)
 <!--
