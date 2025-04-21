@@ -1,4 +1,5 @@
-##LeetCode Statistic:
+LeetCode Statistic:
+                                
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dontpaniczy?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/dontpaniczy/)
 <!--
 **dontpanicw/dontpanicw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
